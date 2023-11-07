@@ -6,7 +6,7 @@ namespace lv1
     {
         public static void Main(string[] args)
         {
-            Console.WriteLine("Pozdrav iz aplikacije od Antonia Novinc");
+            Console.WriteLine("Pozdrav iz aplikacije od Antonia Novinc hahfahfajsgttalglagl");
         }
     }
 }
